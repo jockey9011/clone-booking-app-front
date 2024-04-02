@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 
-/* axios.defaults.baseURL = "https://clone-booking-app-1.onrender.com/api"; */
-axios.defaults.baseURL = "http://localhost:3000/api";
+axios.defaults.baseURL = "https://clone-booking-app-1.onrender.com/api";
+/* axios.defaults.baseURL = "http://localhost:3000/api"; */
 axios.defaults.withCredentials = true;
 
 const useFetch = (url) => {

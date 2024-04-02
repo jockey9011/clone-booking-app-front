@@ -8,7 +8,7 @@ import { AuthContext } from '../../context/AuthContext'; // Importa el contexto 
 import axios from "axios";
 
 
-axios.defaults.baseURL = 'http://localhost:3000/api';
+axios.defaults.baseURL = 'https://clone-booking-app-1.onrender.com/api';
 axios.defaults.withCredentials = true; // Habilita el envío de cookies en las peticiones
 
 const Reserve = ({ setOpen, hotelId }) => {

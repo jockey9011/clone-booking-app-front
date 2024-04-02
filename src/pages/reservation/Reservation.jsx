@@ -8,7 +8,7 @@ import Header from '../../components/header/Header';
 import MailList from '../../components/mailList/MailList';
 import Footer from '../../components/footer/Footer';
 
-axios.defaults.baseURL = 'http://localhost:3000/api';
+axios.defaults.baseURL = 'https://clone-booking-app-1.onrender.com/api';
 axios.defaults.withCredentials = true;
 
 const Reservation = () => {
