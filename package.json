@@ -2,7 +2,6 @@
   "name": "reserva",
   "private": true,
   "version": "0.0.0",
-  "proxy": "https://clone-booking-app-1.onrender.com",
   "type": "module",
   "scripts": {
     "dev": "vite",

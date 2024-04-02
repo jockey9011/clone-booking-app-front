@@ -92,7 +92,7 @@ const Header = ({ type }) => {
             <p className="headerDesc">
             Proyecto final FULLSTACK de Academlo realizado por Jonathan Rodríguez. NO ES UNA APP REAL POR EL MOMENTO. 
             </p>
-            {!user && <button className="headerBtn">Registrate Aquí</button>}
+            
             {/* AQUI COMIENZA EL DESARROLLO DE LA BARRA DE BUSQUEDA */}
             <div className="headerSearch">
               
