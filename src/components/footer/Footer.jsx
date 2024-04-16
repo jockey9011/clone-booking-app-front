@@ -44,7 +44,7 @@ const Footer = () => {
           <li className="fListItem">Términos y condiciones</li>
         </ul>
       </div>
-      <div className="fText">Copyright © 2024 AlojaColombia - Proyecto Académico Final Academlo by Jonathan Rodríguez.</div>
+      <div className="fText">Copyright © 2024 Clon de Booking Full Stack By Jonathan Rodríguez.</div>
     </div>
   );
 };

@@ -88,9 +88,9 @@ const Header = ({ type }) => {
               Y entonces... Cuál será tu próximo destino?
             </h1>
             <p>
-            Obtén recompensas por tus viajes – accede a descuentos, ofertas y mucho más en AlojaColombia</p>
+            Obtén recompensas por tus viajes – accede a descuentos, ofertas y mucho más en Booking</p>
             <p className="headerDesc">
-            Proyecto final FULLSTACK de Academlo realizado por Jonathan Rodríguez. NO ES UNA APP REAL POR EL MOMENTO. 
+            Proyecto Clon de Booking Full Stack By Jonathan Rodríguez - Portafolio Profesional
             </p>
             
             {/* AQUI COMIENZA EL DESARROLLO DE LA BARRA DE BUSQUEDA */}

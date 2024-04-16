@@ -16,7 +16,7 @@ const Navbar = () => {
     <div className="navbar">
       <div className="navContainer">
         <Link to="/">
-          <span className="logo">AlojaColombia</span>
+          <span className="logo">CloneBooking</span>
         </Link>
         {user ? (
           <div className="navItems">
